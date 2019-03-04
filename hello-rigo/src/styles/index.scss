@@ -1,0 +1,40 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.player-container{
+    background-color: black;
+    margin: auto;
+    border-radius: 5px;
+}
+.footer{
+    background-color: #282828;
+    padding: 5px 15px;
+}
+.listOfSongs{
+
+}
+.song{
+    border: grey;
+    padding-top: 3px;
+    margin: 0;
+}
+.playIcon{
+    display: inline-block;
+}
+.pauseIcon{
+    display: none;
+}
+.mutedText{
+    color: #D3D3D3;
+    display: inline-block;
+}
+/* 
+
+    You can write your own styles here...
+    
+    
+    ...Or you can use the import command to include 
+    other sylesheets into your bunde as well, e.j:
+    
+    import 'relative/path/to/stylesheet.scss';
+
+*/
