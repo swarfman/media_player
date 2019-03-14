@@ -42,4 +42,4 @@ $ npm run deploy
 - Error reporting: Use of [esling](https://eslint.org/) for better error reporting.
 - Hot Deploy: Use of [Webpack Development Server](https://webpack.js.org/configuration/dev-server/) for hot deploy and live reload.
 - One-click publish of the code to github pages.
-- Babel 7 (really fast).
+- Babel 7 (really fast).# media-player_updated
